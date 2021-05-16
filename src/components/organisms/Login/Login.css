@@ -1,0 +1,15 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__nav {
+  margin: 2rem 0;
+}
+
+.login__nav--error {
+  color: red;
+  font-size: var(--medium-size);
+}

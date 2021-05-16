@@ -1,0 +1,22 @@
+.button {
+  background-color: var(--primary-color);
+  border-radius: 28px;
+  border: 1px solid var(--secondary-color);
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: var(--large-size);
+  padding: 12px 53px;
+  text-decoration: none;
+  transition-property: background-color, border-color, color, box-shadow, filter;
+  transition-duration: 0.3s;
+}
+
+.button:hover {
+  background-color: var(--secondayLight-color);
+}
+
+.button:active {
+  position: relative;
+  top: 1px;
+}
