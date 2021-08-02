@@ -18,7 +18,7 @@ Project running with:
 
 Clone project
 
-<code>git clone https://github.com/empathyco/people-takehome-empathyx-vue-javier-gonzalez.git
+<code>git clone https://github.com/javigonz/Spotify-API-Search.git
 </code>
 
 Install dependencies (node v10.x is minimum requirement)
