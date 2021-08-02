@@ -7,5 +7,5 @@ export const REDUX_ADD_TRACKS = "REDUX_ADD_TRACKS";
 export const ENV = {
   REACT_APP_CLIENT_ID: "23f1ff0185814de9a657b9f02999a73f",
   REACT_APP_AUTHORIZE_URL: "https://accounts.spotify.com/authorize",
-  REACT_APP_REDIRECT_URL: "http://localhost:3000/redirect",
+  REACT_APP_REDIRECT_URL: "https://spotify-api-search.vercel.app/redirect",
 };
