@@ -16,7 +16,7 @@ Project running with:
 
 # Setup
 
-Clone project
+Clone the project
 
 <code>git clone https://github.com/javigonz/Spotify-API-Search.git
 </code>
